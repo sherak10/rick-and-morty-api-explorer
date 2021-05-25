@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Rick & Morty API explorer",
+  "name": "An API explorer for the Rick & Morty API",
   "icons": [
     {
       "src": "favicon.ico",
